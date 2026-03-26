@@ -1,21 +1,10 @@
-print("ramya")
+print("Good morning pineapple")
+name=input("Enter your name")
+print("Good morning pineapple good morning very good very very nice")
+print("Good morning "+ name)
 
 
-# cd Desktop/dice-project
-# git init
 # git add .
-# git commit -m "Initial commit - Dice rolling project"
-# git remote add origin https://github.com/ramyakumar-2/ML.git
+# git commit -m "first"
 # git branch -M main
 # git push -u origin main
-
-
-
-
-"cd Desktop/dice-project
-git init
-git add .
-git commit -m "Initial commit - Dice rolling project"
-git remote add origin https://github.com/your-username/dice-project.git
-git branch -M main
-git push -u origin main"
